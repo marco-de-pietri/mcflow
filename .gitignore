@@ -1,0 +1,7 @@
+build/
+.vscode/
+.pytest_cache/
+*.egg-info/
+*.xlsx
+*.scdoc
+

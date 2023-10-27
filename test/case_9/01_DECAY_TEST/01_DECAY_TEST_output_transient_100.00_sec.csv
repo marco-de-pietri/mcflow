@@ -1,0 +1,8 @@
+                       circuit,                    group_name,                       node_id,                    length [m],      average_activity [Bq/m3],           total_activity [Bq],             mc_relative_error,
+                 01_DECAY_TEST,                        LINE_0,                             1,                  1.000000e+00,                  1.503090e+00,                  4.722092e-04,                  1.013157e-04
+                 01_DECAY_TEST,                        LINE_0,                             2,                  1.000000e+00,                  2.617183e+00,                  7.399901e-03,                  1.521642e-04
+                 01_DECAY_TEST,                        TANK_1,                             3,                  0.000000e+00,                  1.336139e+02,                  5.596807e-01,                  4.503856e-03
+                 01_DECAY_TEST,                        LINE_2,                             4,                  1.000000e+00,                  1.194967e+02,                  9.385244e-01,                  3.484262e-03
+                 01_DECAY_TEST,                        LINE_2,                             5,                  3.000000e+00,                  3.145522e+01,                  7.411448e-01,                  3.484262e-03
+                 01_DECAY_TEST,                        LINE_3,                             6,                  1.000000e+00,                  5.735570e+00,                  4.504705e-02,                  3.484262e-03
+                 01_DECAY_TEST,                        LINE_3,                             7,                  1.000000e+00,                  2.684611e+00,                  2.108488e-02,                  3.484262e-03
